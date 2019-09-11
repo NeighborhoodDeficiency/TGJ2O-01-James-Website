@@ -6,3 +6,12 @@ margin: 0;
 canvas{
 background-color: rgb(54,232,6);
 }
+
+h1 {
+text-Align:center;
+	background-color:rgb(255,255,255);
+	
+	border:ridge 5px;
+margin-left:20%;
+	margin-right:20%;
+}
